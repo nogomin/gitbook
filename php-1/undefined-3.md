@@ -51,7 +51,7 @@ $object = new ClassName();
 
 echo $object->publicVar;      // 접근 가능
 //echo $object->protectedVar; // 접근 불가능
-//echo $object->privatev;     // 접근 불가능
+//echo $object->privateVar;     // 접근 불가능
 
 $object->publicMethod();      // 호출 가능
 //$object->protectedMethod(); // 호출 불가능
@@ -82,6 +82,6 @@ class ClassName{
 }
 $object = new ClassName();
 $object->setValue("hello"); // setValue() 함수를 통해 $private의 값을 변경할 수 있음.
-echo $object->getValue;     // getValue() 함수를 통해 $private의 값을 출력할 수 있음.
+echo $object->getValue();     // getValue() 함수를 통해 $private의 값을 출력할 수 있음.
 ```
 
