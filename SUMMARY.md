@@ -2,6 +2,7 @@
 
 * [Intro](README.md)
 * [Today I Learned](today-i-learned/README.md)
+  * [191022\_TIL](today-i-learned/191022_til.md)
   * [191021\_TIL](today-i-learned/191021_til.md)
   * [191020\_TIL](today-i-learned/191020_til.md)
   * [TIL \(시작\)](today-i-learned/til.md)
