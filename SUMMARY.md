@@ -16,5 +16,6 @@
 * [HTML](html/README.md)
   * [팁](html/undefined.md)
 * [CSS](css/README.md)
+  * [알짜 정보2](css/2.md)
   * [알짜 정보](css/undefined.md)
 
